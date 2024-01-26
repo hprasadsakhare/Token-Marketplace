@@ -110,7 +110,7 @@ const Footer = () => {
       </div>
 
       <div className="py-6 text-sm text-center border-[#f37a65] border-t-[3px] text-gray-400">
-        Copyright © 2023 @panditdhamdhere. All rights reserved.
+        Copyright © 2024 @hariprasad. All rights reserved.
       </div>
     </footer>
   );
